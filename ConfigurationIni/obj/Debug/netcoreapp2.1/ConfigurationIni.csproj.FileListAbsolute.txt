@@ -1,0 +1,14 @@
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\bin\Debug\netcoreapp2.1\ConfigurationIni.deps.json
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\bin\Debug\netcoreapp2.1\ConfigurationIni.runtimeconfig.json
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\bin\Debug\netcoreapp2.1\ConfigurationIni.runtimeconfig.dev.json
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\bin\Debug\netcoreapp2.1\ConfigurationIni.dll
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\bin\Debug\netcoreapp2.1\ConfigurationIni.pdb
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\obj\Debug\netcoreapp2.1\ConfigurationIni.csprojAssemblyReference.cache
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\obj\Debug\netcoreapp2.1\ConfigurationIni.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\obj\Debug\netcoreapp2.1\ConfigurationIni.RazorAssemblyInfo.cache
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\obj\Debug\netcoreapp2.1\ConfigurationIni.RazorAssemblyInfo.cs
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\obj\Debug\netcoreapp2.1\ConfigurationIni.AssemblyInfoInputs.cache
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\obj\Debug\netcoreapp2.1\ConfigurationIni.AssemblyInfo.cs
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\obj\Debug\netcoreapp2.1\ConfigurationIni.RazorTargetAssemblyInfo.cache
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\obj\Debug\netcoreapp2.1\ConfigurationIni.dll
+C:\Users\leonardo.queres\source\repos\ConfigurationIni\ConfigurationIni\obj\Debug\netcoreapp2.1\ConfigurationIni.pdb
